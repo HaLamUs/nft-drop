@@ -20,8 +20,20 @@ const [brand, setBrand] = useState("Ford");
 const [model, setModel] = useState("Mustang");
 ```
 
-https://www.w3schools.com/react/react_usestate.asp
+https://www.w3schools.com/react/react_usestate.asp 👆
 
+ ### Solana
+ 1. IDE
+    https://beta.solpg.io
+2. Libs
+    https://www.metaplex.com
+#### NFT
+    include 2 files: 0.jpg, 0.json
+    <br/>The json file is where you define NFT's properties: hat, ears, eyes (blue)
+    
+    
+<img src="https://github.com/HaLamUs/nft-drop/blob/main/assets/monkey.png" width="600">
+  https://opensea.io/assets/solana/214gAnKQUfFoD6AW4aRtETJNA73WZ3mYUybMEp3PDqHy 👆
 
 ---
 ## Author

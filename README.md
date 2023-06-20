@@ -63,6 +63,10 @@ We do not save the raw/origin png to Solana chain, we use a 3rd party (candy mac
   📌 Remember to change the wallet payment with your address.
 
   https://docs.metaplex.com/developer-tools/sugar/guides/sugar-for-cmv3#bot-tax
+
+## The END
+😌 For me, no RUST code actually typing is amazing. When you are the fullstack, you must take advantage of those libs around you.
+<br/> P/s: NFT properties so kool 🤘
   
 ---
 ## Author

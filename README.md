@@ -7,17 +7,32 @@ This project is my REACTION to the video
 
 ## Detail 
 ### React/Next.js 
+```
+APP.js --> index.js --> Main --> Header, NFTDisplay, Hero
+```
+
 #### React Hook
   - ✅ The useEffect Hook allows you to perform side effects in your components.
         </br>Some examples of side effects are: fetching data, directly updating the DOM, and timers.
-    
+<br/> Example:
+```js
+useEffect(() => {
+    const connection = createConnection(serverUrl, roomId);
+    connection.connect();
+    return () => {
+      connection.disconnect();
+    };
+  }, [serverUrl, roomId]); // conditions meet
+```
+
         Replace class, componentDidMount, componentDidUpdate
   - ✅ The React useState Hook allows us to track state in a function component.
       </br>State generally refers to data or properties that need to be tracking in an application.
 <br/> Example:        
 ```js
-const [brand, setBrand] = useState("Ford");
+const [brand, setBrand] = useState("Ford"); // const brand = "Ford" intial value 
 const [model, setModel] = useState("Mustang");
+const [me, setMe] = useState(); // meaning me-variable has nil value 
 ```
 
 https://www.w3schools.com/react/react_usestate.asp 👆

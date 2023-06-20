@@ -36,10 +36,19 @@ https://www.w3schools.com/react/react_usestate.asp 👆
   https://opensea.io/assets/solana/214gAnKQUfFoD6AW4aRtETJNA73WZ3mYUybMEp3PDqHy 👆
 
 #### How are NFTs stored?
-We do not save the raw/origin png to Solana chain, we use a 3rd party (candy machine) for storage and keep the id (reference keys) in blockchain
+We do not save the raw/origin png to Solana chain, we use a 3rd party (candy machine) for hosting assets and keep the id (reference keys) in blockchain
 
 <img src="https://github.com/HaLamUs/nft-drop/blob/main/assets/blockchain.png" width="400">
 
+#### Sugar candy 
+  With this powerful tool, you can guard your NFT 
+
+  Example: Add start/end date, bot tax
+
+  📌 Remember to change the wallet payment with your address.
+
+  https://docs.metaplex.com/developer-tools/sugar/guides/sugar-for-cmv3#bot-tax
+  
 ---
 ## Author
 

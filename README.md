@@ -32,8 +32,13 @@ https://www.w3schools.com/react/react_usestate.asp 👆
     <br/>The json file is where you define NFT's properties: hat, ears, eyes (blue)
     
     
-<img src="https://github.com/HaLamUs/nft-drop/blob/main/assets/monkey.png" width="600">
+<img src="https://github.com/HaLamUs/nft-drop/blob/main/assets/monkey.png" width="400">
   https://opensea.io/assets/solana/214gAnKQUfFoD6AW4aRtETJNA73WZ3mYUybMEp3PDqHy 👆
+
+#### How are NFTs stored?
+We do not save the raw/origin png to Solana chain, we use a 3rd party (candy machine) for storage and keep the id (reference keys) in blockchain
+
+<img src="https://github.com/HaLamUs/nft-drop/blob/main/assets/blockchain.png" width="400">
 
 ---
 ## Author

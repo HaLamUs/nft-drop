@@ -44,7 +44,7 @@ https://www.w3schools.com/react/react_usestate.asp 👆
     https://www.metaplex.com
 #### NFT
     include 2 files: 0.jpg, 0.json
-    <br/>The json file is where you define NFT's properties: hat, ears, eyes (blue)
+    The json file is where you define NFT's properties: hat, ears, eyes (blue)
     
     
 <img src="https://github.com/HaLamUs/nft-drop/blob/main/assets/monkey.png" width="400">
@@ -58,15 +58,16 @@ We do not save the raw/origin png to Solana chain, we use a 3rd party (candy mac
 #### Sugar candy 
   With this powerful tool, you can guard your NFT 
 
-  Example: Add start/end date, bot tax
+  Example: Add start/end date, bot tax ...
 
   📌 Remember to change the wallet payment with your address.
 
   https://docs.metaplex.com/developer-tools/sugar/guides/sugar-for-cmv3#bot-tax
 
 ## The END
-😌 For me, no RUST code actually typing is amazing. When you are the fullstack, you must take advantage of those libs around you.
-<br/> P/s: NFT properties so kool 🤘
+😌 For me, no RUST code actually typing is amazing. 
+<br/> Going fullstack mode, take advantage of those libs around you.
+<br/> P/s: NFT properties are so kool 🤘
   
 ---
 ## Author

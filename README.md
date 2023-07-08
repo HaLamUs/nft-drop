@@ -70,7 +70,9 @@ We do not save the raw/origin png to Solana chain, we use a 3rd party (candy mac
 <br/> Going fullstack mode, take advantage of those libs around you.
 <br/> P/s: NFT properties are so kool 🤘
   
----
+
+<p><img type="separator" height=8px width="100%" src="https://github.com/HaLamUs/nft-drop/blob/main/assets/aqua.png"></p>
+
 ## Author
 
 This repo was developed by [@lamha](https://github.com/HaLamUs). 
